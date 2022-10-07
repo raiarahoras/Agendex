@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "nome": "HEMOGRAMA",
+        "Descrição": "O exame analisa informações específicas sobre os tipos e quantidades dos componentes no sangue, como: glóbulos vermelhos (hemácias); glóbulos brancos (leucócitos), plaquetas (coagulação sanguínea)."
+    },
+    {
+        "id": "2",
+        "nome": "GLICEMIA",
+        "Descrição": "O exame de glicemia serve para medir o nível da glicose na circulação sanguínea do paciente podendo identificar casos de diabetes e pré diabetes"
+    },
+    {
+        "id": "3",
+        "nome": "UREIA E CREATINA",
+        "Descrição": "Avalia o funcionamento dos rins e identifica alterações de forma precoce, mesmo se assintomático."
+    },
+    {
+        "id": "4",
+        "nome": "COLESTEROL E TRIGLICERÍDEOS",
+        "Descrição": "O exame mede os níveis de gorduras no sangue que podem ocasionar entupimento dos vasos sanguíneos, causando infarto e AVC (derrame)."
+    },
+    {
+        "id": "5",
+        "nome": "TGO (AST) E TGP (ALT)",
+        "Descrição": "O exame quantifica as enzimas TGO e TGP e avalia o funcionamento do fígado. Podem estar alteradas na vigência de lesões musculares, doença celíaca, hipotireoidismo, pancreatite e infarto."
+    },
+    {
+        "id": "6",
+        "nome": "TSH E T4 LIVRE",
+        "Descrição": "Avalia o funcionamento da glândula tireóide, podendo identificar alterações como hipotireoidismo e hipertireoidismo."
+    },
+    {
+        "id": "7",
+        "nome": "ÁCIDO ÚRICO",
+        "Descrição": "Os cristais de ácido úrico podem se acumular nas articulações e nos rins causando gota, cálculos renais e até insuficiência renal."
+    },
+    {
+        "id": "8",
+        "nome": "EXAMES DE URINA",
+        "Descrição": "Este exame serve para analisar de forma microscópica as células, bactérias e cristais que possam estar presentes na urina e causar doenças. Além disso são realizadas dosagens de glicose, bilirrubinas e outras substâncias que auxiliam no diagnóstico de doenças sistêmicas."
+    },
+    {
+        "id": "9",
+        "nome": "ELETROCARDIOGRAMA",
+        "Descrição": "O exame de eletrocardiograma consiste em medir a atividade elétrica do coração e serve para diagnosticar a existência de problemas cardíacos."
+    },
+    {
+        "id": "10",
+        "nome": "TESTE ERGOMÉTRICO",
+        "Descrição": "O teste ergométrico serve para avaliar o funcionamento do sistema cardiovascular sob estímulo e consiste em o paciente realizar um esforço físico gradual em uma esteira rolante ou bicicleta."
+    },
+    {
+        "id": "11",
+        "nome": "ECOCARDIOGRAMA",
+        "Descrição": "O exame consiste em uma ultrassonografia do coração que fornece imagens obtidas através de ondas sonoras e cores que avaliam o tipo de fluxo sanguíneo dentro das câmaras cardíacas."
+    }
+]
